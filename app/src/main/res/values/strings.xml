@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">SOSEXPRESS</string>
+    <string name="titulo_tela_login_usuario">LOGIN DO USUÁRIO</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="acessar">Acessar</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="acesso_cadastro">Cadastrar</string>
+    <string name="acesso_login">Logar</string>
+    <string name="todo">TODO</string>
+    <string name="usu_rio">Usuário</string>
+    <string name="Senha">Senha</string>
+    <string name="Email">Email</string>
+    <string name="confirmar_senha1">Conf senha</string>
+    <string name="senha1">Senha</string>
+    <string name="email2">Email</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="telefone">Telefone</string>
+    <string name="nome_fantasia">Nome Fantasia</string>
+    <string name="cadastre_sua_oficina">Cadastre sua oficina</string>
+    <string name="bairro1">Bairro</string>
+    <string name="n_mero1">Número</string>
+    <string name="rua1">Rua</string>
+    <string name="cep1">CEP</string>
+    <string name="alpha_0_1">Alpha 0.1</string>
+    <string name="cadastro_para_oficinas">Cadastro para Oficinas</string>
+    <string name="cadastro_para_usu_rios">Cadastro para Usuários</string>
+    <string name="nome">Nome</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="cpf">CPF</string>
+    <string name="rua">Rua</string>
+    <string name="n_mero">Número</string>
+    <string name="cep">CEP</string>
+    <string name="bairro">Bairro</string>
+    <string name="email1">Email</string>
+    <string name="senha2">Senha</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="title_activity_mapa_usuario">Map</string>
+    <string name="t_tulo">Título</string>
+    <string name="descri_o_aqui">Descrição aqui...</string>
+    <string name="todo1">TODO</string>
+    <string name="app_name1">MapaGoogle</string>
+    <string name="title_cad_opcao">Tipo de cadastro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_exit">Sair</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sos">sos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login_activity">Login do usuário</string>
+    <string name="title_activity_mapa_minha_posicao">Map</string>
+    <string name="cpf1">cpf</string>
+    <string name="buscar_cep">Buscar cep</string>
+
+    <!--tela sair ActPrincipal-->
+    <string name="texto_titulo">Você está prestes a sair da aplicação. Realmente deseja sair?</string>
+    <string name="texto_botao_sim">Sim</string>
+    <string name="texto_botao_nao">Não</string>
+
+    <!-- tela introdução-->
+    <string name="slide_1_title">Seu carro quebrou?</string>
+    <string name="slide_1_description">
+        Agora chegou a solução para esse problema, e ele está na palma da sua mão,
+        \n
+         apenas um clique!
+    </string>
+
+    <string name="slide_2_title">É muito simples</string>
+    <string name="slide_2_description">
+        Você só precisa clicar no mapa em uma oficina mais próxima a você, preencher com os dados do veículo, e pronto é só aguardar o o socorro
+    </string>
+
+    <string name="slide_3_title">Tem uma oficina?</string>
+    <string name="slide_3_description">
+        Cadastre-a e prepare-se para receber solicitações de clientes inúmeras vezes diariamente
+    </string>
+</resources>

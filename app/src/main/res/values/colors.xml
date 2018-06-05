@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#e78026</color>
+    <color name="cor_btn_telaacao">#FF000000</color>
+    <color name="cor_text_botao_telaacao">#ffff38</color>
+    <color name="backgroud_app">#FFFFFF38</color>
+    <color name="corPri">#FF0C1C76</color>
+    <color name="colorAc">#5a63de</color>
+
+
+    <!--tela sair-->
+    <color name="bluelight">#49acd5</color>
+    <color name="green">#45bc62</color>
+    <color name="orange">#eaad43</color>
+    <color name="fundoDialog">#2f333f</color>
+
+    <!--background tela introdução-->
+    <color name="solid_one">#224bf4</color>
+    <color name="solid_two">#ffb74d</color>
+    <color name="solid_three">#aa00ff</color>
+
+    <!--cores referente ao indicador de slide ativo/desativo-->
+    <color name="active_slide">#FF23C46C</color>
+    <color name="inactive_slide">#9ca19e</color>
+</resources>

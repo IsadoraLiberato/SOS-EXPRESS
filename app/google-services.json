@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "661625727977",
+    "firebase_url": "https://sosexpress-1523317074062.firebaseio.com",
+    "project_id": "sosexpress-1523317074062",
+    "storage_bucket": "sosexpress-1523317074062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661625727977:android:4258d13c5908ce66",
+        "android_client_info": {
+          "package_name": "sosexpress.com.br.sosexpres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661625727977-orvalsu6e3tr721bt5aphqbbg7scjfj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sosexpress.com.br.sosexpres",
+            "certificate_hash": "0475006f068ee973bbfa1704bcedd5038e2d77e8"
+          }
+        },
+        {
+          "client_id": "661625727977-30ci2j43vdlsb386ud13bhgvr2b9qlet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaBEoJ9STLw6VLdfI-6IRZ67wP5LIm0Z8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661625727977-30ci2j43vdlsb386ud13bhgvr2b9qlet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
